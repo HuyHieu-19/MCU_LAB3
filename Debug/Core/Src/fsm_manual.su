@@ -1,0 +1,4 @@
+fsm_manual.c:12:6:impl_INC_Button	16	static
+fsm_manual.c:48:6:impl_MODE_Button	24	static
+fsm_manual.c:84:6:impl_SET_Button	24	static
+fsm_manual.c:95:6:fsm_manual	24	static

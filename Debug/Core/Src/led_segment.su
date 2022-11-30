@@ -1,0 +1,3 @@
+led_segment.c:10:6:display_1st_7SEG	32	static
+led_segment.c:18:6:display_2nd_7SEG	32	static
+led_segment.c:26:6:display_both_7SEG	16	static
